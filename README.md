@@ -1,5 +1,5 @@
 WebTech
 =======
 
-HTML, Javascript, CSS
+HTML, Javascript, CSS.
 This project show how to align vertically elements at web page. 
